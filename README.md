@@ -1,7 +1,6 @@
 # 💰 Mini Expense Tracker
 
 A MERN stack application to track daily income and expenses.
-Built for JIET Open Innovations Labs - Internship Task 2.
 
 ## Features
 - Add, edit, delete transactions
